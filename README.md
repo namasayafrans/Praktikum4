@@ -1,18 +1,18 @@
 # Tugas-ke-7
-Nama    : Danang Nurcahyo
+Nama    : Frans Putra Sinaga
 
-NIM     : 312210004
+NIM     : 312210046
 
 Kelas   : TI.22.A1
 
 ### DAFTAR ISI <br>
 | No | Description | Link |
 | ----- | ----- | ---- |
-| 1 | Lab 2 : Struktur Kondisi | [klik disini](#Lab-2-Struktur-Kondisi) |
-| 2 | Lab 3 : Perulangan | [Click Here](#Lab-3-Perulangan) |
-| 3 | modul praktikum2 | [Click Here](#Labpy02) |
-| 4 | modul praktikum3  | [Click Here](#Labpy03) |
-| 5 | Author  : Danang Nurcahyo | [Click Here](#Author-DANUR) |
+| 1 | Lab 2 : Struktur Kondisi | [Silahkan Klik](#Lab-2-Struktur-Kondisi) |
+| 2 | Lab 3 : Perulangan | [Silahkan Klik](#Lab-3-Perulangan) |
+| 3 | modul praktikum2 | [Silahkan Klik](#Labpy02) |
+| 4 | modul praktikum3  | [Silahkan Klik](#Labpy03) |
+| 5 | Author  : Danang Nurcahyo | [Silahkan Klik](#Author-DANUR) |
 
 
 
@@ -325,4 +325,4 @@ for i in lb:
 
 Sekian penjelasan dari saya Terima Kasih 
 
-### Author DANURRR
+### Author Scorpio
