@@ -12,7 +12,7 @@ Kelas   : TI.22.A1
 | 2 | Lab 3 : Perulangan | [Silahkan Klik](#Lab-3-Perulangan) |
 | 3 | modul praktikum2 | [Silahkan Klik](#Labpy02) |
 | 4 | modul praktikum3  | [Silahkan Klik](#Labpy03) |
-| 5 | Author  : Frans | [Silahkan Klik](#Author-DANUR) |
+| 5 | Author  : Frans | [Silahkan Klik](#Author-Frans) |
 
 
 
